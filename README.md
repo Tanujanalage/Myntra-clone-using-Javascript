@@ -41,6 +41,8 @@ Open index.html in your browser
 
 Browse products, add them to the bag, and view the summary 🎉
 
+
 🙌 Acknowledgement
+
 This project is for learning purposes only.
 All product names and brand logos belong to Myntra.
